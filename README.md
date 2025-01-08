@@ -1,1 +1,3 @@
-# TSDOM
+# TSDOM ✌🏻
+
+>TypeScript Dom Manipulation 
