@@ -1,0 +1,22 @@
+# Node.js dependencies
+/node_modules/
+
+# Optional npm log files
+npm-debug.log
+yarn-error.log
+
+# TypeScript build output
+/dist/
+/build/
+/out/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Package-lock or yarn.lock files (optional, but generally recommended to keep these)
+# package-lock.json
+# yarn.lock
